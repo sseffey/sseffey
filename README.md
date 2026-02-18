@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=007BFF&center=true&vCenter=true&repeat=true&random=false&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammed+Faroouq;Bazooka" alt="Typing SVG" alt="Typing SVG" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=007BFF&center=true&vCenter=true&repeat=true&random=false&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Omar+Ibrahim;Sseffey" alt="Typing SVG" alt="Typing SVG" alt="Typing SVG" /></a></h1>
 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mkfaroouq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mkfaroouq" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mkfaroouq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mkfaroouq" height="30" width="40" /></a>
-<a href="https://instagram.com/faroouqiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faroouqiii" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/mkfaroouq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mkfaroouq" height="30" width="40" /></a> -->
+<a href="https://linkedin.com/in/omar-sefey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mkfaroouq" height="30" width="40" /></a>
+<a href="https://instagram.com/sseffey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faroouqiii" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
